@@ -65,3 +65,8 @@ webmail
 ww1
 ww42
 www2
+cpcontacts
+webdisk
+cpcalendars
+cpanel
+whm
